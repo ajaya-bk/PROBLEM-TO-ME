@@ -1,0 +1,15 @@
+#COMMUNITY PROBLEM REPORTER
+1.controllers
+- __init__.py
+- problem_controller.py
+
+2.models
+- __init__.py
+- base_models.py
+- database.py
+- problem.py
+
+3. main.py
+
+4. community_problems.db
+5. requirements.txt
